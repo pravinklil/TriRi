@@ -1,2 +1,6 @@
 changes,changes done few scenario need to check and update, all scenario working
+<<<<<<< HEAD
 Changes done by QA3
+=======
+i have made changes some code from SSE
+>>>>>>> a45d2f38ecaf69781dd45724b3655c8203229ef1
